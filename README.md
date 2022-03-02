@@ -1,4 +1,4 @@
-<img src = "image/">
+<img src = "image/phone_list.PNG">
 
 
 # Getting Started with Create React App
