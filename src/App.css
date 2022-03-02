@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#container {
+  width: 400px;
+  background-color: aliceblue;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mylist {
+  margin: 15px 0;
+}
+
+.mylist li {
+  background-color: antiquewhite;
+  padding: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 5rem;
+  height: 2rem;
+  margin-top: 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  border-radius: 2rem;
+  box-shadow: 3px 5px 8px grey;
+  border: none;
+  cursor: pointer;
+
+}
+
+.btn:hover {
+  box-shadow: 1px 3px 8px grey;
+}
+
+
