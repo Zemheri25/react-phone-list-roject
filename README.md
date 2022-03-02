@@ -1,7 +1,7 @@
 https://zemheri25.github.io/react-phone-list-roject/
+
+
 <img src = "image/phone_list.PNG">
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
